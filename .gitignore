@@ -1,0 +1,6 @@
+apk/
+__pycache__/
+*.pyc
+app_state.json
+last_session.json
+configs/
